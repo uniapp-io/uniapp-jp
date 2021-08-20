@@ -1,2 +1,1 @@
-# uniapp-zh
-uniapp dosc Chinesize test
+# 这是一段中文描述
