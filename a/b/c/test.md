@@ -6,7 +6,7 @@ PC适配和屏幕适配略有差异。PC适配包含`宽屏适配`和`uni-app内
 
 uni-app内置组件的PC适配，又包括`PC交互习惯的UI调整`和`非webkit浏览器适配`这两部分。这块工作不在本文的讨论范围内，尤其是开发者在PC端可以随意使用普通html元素和组件，不局限于uni-app内置组件。所以本文重点讨论屏幕适配。
 
-uni-app提供的屏幕适配方案，包括3部分：
+uni-ap这里是修改的文档案，包括3部分：
 
 #### 1. 页面窗体级适配方案：leftWindow、rightWindow、topWindow
 以目前手机屏幕为主window，在左右上，可新扩展 leftWindow、rightWindow、topWindow，这些区域可设定在一定屏幕宽度范围自动出现或消失。这些区域各自独立，切换页面支持在各自的window内刷新，而不是整屏刷新。
@@ -33,3 +33,7 @@ __H5 宽屏下 tabBar(选项卡) 与窗体的关系__
 leftWindow等配置，在pages.json里进行。文档见：[https://uniapp.dcloud.net.cn/collocation/pages?id=topwindow](https://uniapp.dcloud.net.cn/collocation/pages?id=topwindow)
 
 pages.json 配置样例
+
+### 新增文档
+
+这里是新增的需要翻译的文档
